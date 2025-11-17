@@ -1,0 +1,12 @@
+pandas
+numpy
+lightgbm
+scikit-learn
+sqlalchemy
+requests
+fastapi
+uvicorn
+matplotlib
+pyyaml
+python-dotenv
+vectorbt
